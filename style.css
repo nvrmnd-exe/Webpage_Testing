@@ -11,4 +11,5 @@ body {
 
 header {
     background-color: #88d8c0;
+    display: grid;
 }
