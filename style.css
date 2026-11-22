@@ -12,4 +12,12 @@ body {
 header {
     background-color: #88d8c0;
     display: grid;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.header-div {
+    padding: 20px;
+    margin: 20px;
 }
